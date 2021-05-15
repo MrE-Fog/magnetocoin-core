@@ -5,10 +5,9 @@ http://www.magnetocoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 The LiteCoin Developers
-
 Copyright (c) 2021 Magnetocoin Developers
 
-![Magnetocoin](https://magnetocoin.com/magnetologo.png)
+![Magnetocoin](share/pixmaps/bitcoin256.png)
 
 What is Magnetocoin?
 ----------------

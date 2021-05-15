@@ -1,4 +1,4 @@
-0.8.7.5 changes
+0.8.8.0 changes
 =============
 - openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and Magnetocoin.
   This update patches Magnetocoin to maintain compatibility with CVE-2014-8275 patched openssl.
